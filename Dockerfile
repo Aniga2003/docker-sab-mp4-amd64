@@ -1,4 +1,4 @@
-FROM linuxserver/sonarr
+FROM linuxserver/sabnzbd
 
 RUN \
   apt-get update && \
